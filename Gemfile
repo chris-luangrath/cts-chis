@@ -62,3 +62,5 @@ gem 'jquery-ui-rails', '~> 6.0', '>= 6.0.1'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
 
 gem 'luangrath_view_tool', '>= 0.1.1'
+
+gem 'petergate', '~> 1.7', '>= 1.7.5'
