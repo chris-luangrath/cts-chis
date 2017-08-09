@@ -17,6 +17,6 @@ module ApplicationHelper
     end
     
     def copyright_generator
-        @copyright = LuangrathViewTool::Renderer.copyright 'Chris Luangrath', 'All rights reserved'
+        LuangrathViewTool::Renderer.copyright 'Chris Luangrath', 'All rights reserved'
     end
 end
